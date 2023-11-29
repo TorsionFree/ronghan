@@ -1,2 +1,10 @@
 # Note for dynamic system
-[Week1](Week1.pdf)
+[Week1](DSWeek1.pdf)
+[Week2](DSWeek2.pdf)
+[Week3](DSWeek3.pdf)
+[Week5](DSWeek5.pdf)
+[Week6](DSWeek6.pdf)
+[Week7](DSWeek7.pdf)
+[Week8,9](DSWeek89.pdf)
+[Week10](DSWeek10.pdf)
+[Week11](DSWeek11.pdf)
