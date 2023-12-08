@@ -1,12 +1,15 @@
 # Note for dynamic system
 # Week1
 [Week1](DSWeek1.pdf)
+This note collects some explicit computations for Haar measure on several matrix Lie group.
 
 # Week2
 [Week2](DSWeek2.pdf)
+This note is about the connection between $PSL(2,\mathbb{R})$ and hyperbolic plane.
 
 # Week3
 [Week3](DSWeek3.pdf)
+This note states a small lemma and the Birkhoff ergodic theorem for the flow.
 
 # Week4 
 The class this week was cancelled due to National Day.
