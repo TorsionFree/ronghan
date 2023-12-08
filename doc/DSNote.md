@@ -17,8 +17,7 @@ In this week, basic properties of dynamics on Lie groups and their homogeneous s
 
 # Week6
 [Week6](DSWeek6.pdf)
-In this week, we learned the proof of Howe-Moore vanishing theorem for matrix coefficients of unitary representations of SL(n, R). As a appli-
-cation, this note presents how this is applied to the problem of counting lattice points in hyperbolic plane.
+In this week, we learned the proof of Howe-Moore vanishing theorem for matrix coefficients of unitary representations of SL(n, R). As a application, this note presents how this is applied to the problem of counting lattice points in hyperbolic plane.
 
 # Week7
 [Week7](DSWeek7.pdf)
