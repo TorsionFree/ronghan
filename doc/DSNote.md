@@ -22,6 +22,7 @@ cation, this note presents how this is applied to the problem of counting lattic
 
 # Week7
 [Week7](DSWeek7.pdf)
+This note tries to characterize all divergent A-orbits in the space of lattices. However, the proof is not complete because I can not understand some steps in the reference I found.
 
 # Week 8 and 9
 [Week8,9](DSWeek89.pdf)
