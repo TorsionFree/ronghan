@@ -34,3 +34,11 @@ In week 10, the relationship between dynamics and quadratic forms, products of l
 # Week 11
 [Week11](DSWeek11.pdf)
 In week 11, we proved a theorem relating the periodic orbit and values of products of linear forms at integer points.
+
+# Week 12
+[Week12](DSWeek12.pdf)
+In week 12, we proved a theorem of Cassels and Swinnerton-Dyer about isolation of compact A-orbits for $SL(3,\mathbb{R})/SL(3,\mathbb{Z})$. In this note, we proved a weaker result for all d>2, and use this result to show the connection between Littlewood's conjecture and Margulis's conjecture.
+
+# Week 13
+[Week13](DSWeek13.pdf)
+In week 13, we proved Ratner's measure classification theorem, under the technical constrain that the subgroup action is just the $SL(2,\mathbb{R})$ action. The fact that  $SL(2,\mathbb{R})$ is semisimple make things easier, and still captures the main ideas of the proof.
